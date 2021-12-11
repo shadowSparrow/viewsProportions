@@ -30,9 +30,7 @@
                         <constraints>
                             <constraint firstItem="5ju-Od-vwe" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="57" id="0vy-e6-3bK"/>
                             <constraint firstItem="2Gr-Wr-ske" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="57" id="26Y-gI-Bj2"/>
-                            <constraint firstItem="2Gr-Wr-ske" firstAttribute="top" secondItem="5ju-Od-vwe" secondAttribute="bottom" constant="70" id="6T7-x1-XcT"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="2Gr-Wr-ske" secondAttribute="bottom" constant="79" id="DAJ-Rj-WiH"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="5ju-Od-vwe" secondAttribute="bottom" constant="449" id="ENE-cL-oGp"/>
                             <constraint firstItem="5ju-Od-vwe" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="69" id="Llo-sU-IN4"/>
                             <constraint firstItem="2Gr-Wr-ske" firstAttribute="top" secondItem="5ju-Od-vwe" secondAttribute="bottom" constant="70" id="NAi-m5-wKa"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="5ju-Od-vwe" secondAttribute="trailing" constant="57" id="Swm-sL-Fq7"/>
